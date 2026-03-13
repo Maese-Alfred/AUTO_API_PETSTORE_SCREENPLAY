@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Gestion del ciclo de vida de mascotas en PetStore" skipped="0" tests="1" time="2.25" timestamp="2026-03-12 06:39:11"><testcase name="Validar el ciclo CRUD completo de una mascota"/></testsuite>
